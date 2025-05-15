@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\bin\Debug\net6.0\Example_004.exe
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\bin\Debug\net6.0\Example_004.deps.json
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\bin\Debug\net6.0\Example_004.runtimeconfig.json
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\bin\Debug\net6.0\Example_004.dll
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\bin\Debug\net6.0\Example_004.pdb
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.AssemblyInfo.cs
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.dll
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\refint\Example_004.dll
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.pdb
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\Example_004.genruntimeconfig.cache
+C:\Users\aleks\Desktop\GeekBrains(DS)\Введение в язык программирвоания C#\lestions\lestions_1\Example_004\obj\Debug\net6.0\ref\Example_004.dll
