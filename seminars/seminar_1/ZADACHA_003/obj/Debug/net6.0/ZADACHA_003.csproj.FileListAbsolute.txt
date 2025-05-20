@@ -1,0 +1,15 @@
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.csproj.AssemblyReference.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.AssemblyInfoInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.AssemblyInfo.cs
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.csproj.CoreCompileInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/bin/Debug/net6.0/ZADACHA_003
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/bin/Debug/net6.0/ZADACHA_003.deps.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/bin/Debug/net6.0/ZADACHA_003.runtimeconfig.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/bin/Debug/net6.0/ZADACHA_003.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/bin/Debug/net6.0/ZADACHA_003.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/refint/ZADACHA_003.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ZADACHA_003.genruntimeconfig.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_1/ZADACHA_003/obj/Debug/net6.0/ref/ZADACHA_003.dll
