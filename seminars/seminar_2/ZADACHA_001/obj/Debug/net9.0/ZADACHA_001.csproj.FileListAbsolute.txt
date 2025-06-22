@@ -1,0 +1,15 @@
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/bin/Debug/net9.0/ZADACHA_001
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/bin/Debug/net9.0/ZADACHA_001.deps.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/bin/Debug/net9.0/ZADACHA_001.runtimeconfig.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/bin/Debug/net9.0/ZADACHA_001.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/bin/Debug/net9.0/ZADACHA_001.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.AssemblyInfoInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.AssemblyInfo.cs
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.csproj.CoreCompileInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.sourcelink.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/refint/ZADACHA_001.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ZADACHA_001.genruntimeconfig.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_2/ZADACHA_001/obj/Debug/net9.0/ref/ZADACHA_001.dll
