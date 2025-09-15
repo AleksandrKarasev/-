@@ -1,0 +1,15 @@
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/bin/Debug/net9.0/HOMEWORK_002
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/bin/Debug/net9.0/HOMEWORK_002.deps.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/bin/Debug/net9.0/HOMEWORK_002.runtimeconfig.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/bin/Debug/net9.0/HOMEWORK_002.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/bin/Debug/net9.0/HOMEWORK_002.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.AssemblyInfoInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.AssemblyInfo.cs
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.csproj.CoreCompileInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.sourcelink.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/refint/HOMEWORK_002.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/HOMEWORK_002.genruntimeconfig.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_3/HOMEWORK_002/obj/Debug/net9.0/ref/HOMEWORK_002.dll
