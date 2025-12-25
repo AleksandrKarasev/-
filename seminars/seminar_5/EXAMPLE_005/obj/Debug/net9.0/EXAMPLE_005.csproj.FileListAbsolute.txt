@@ -1,0 +1,15 @@
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/bin/Debug/net9.0/EXAMPLE_005
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/bin/Debug/net9.0/EXAMPLE_005.deps.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/bin/Debug/net9.0/EXAMPLE_005.runtimeconfig.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/bin/Debug/net9.0/EXAMPLE_005.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/bin/Debug/net9.0/EXAMPLE_005.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.AssemblyInfoInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.AssemblyInfo.cs
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.csproj.CoreCompileInputs.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.sourcelink.json
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/refint/EXAMPLE_005.dll
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.pdb
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/EXAMPLE_005.genruntimeconfig.cache
+/Users/aleksandrkarasev/Desktop/GeekBrains(DS)/Введение в язык программирвоания C#/seminars/seminar_5/EXAMPLE_005/obj/Debug/net9.0/ref/EXAMPLE_005.dll
